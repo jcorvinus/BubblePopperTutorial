@@ -3,7 +3,10 @@ Beginner tutorial for Leap Motion's Interaction Engine.
 
 Bubble popper is a simple digital toy - A spout will spawn a series of bubbles, and the player can pop them with a satisfying effect. In this tutorial, we will construct it.
 
-NOTE: This is a VR tutorial. The following hardware is required.
+NOTE: This is a VR tutorial. The following hardware is required:
+- VR Headset (Vive, Rift, Windows Mixed Reality, etc)
+- Leap Motion controller
+- Computer capable of driving the aforementioned hardware.
 
 # Getting Started
 Open Unity, select the 'new project' option.
