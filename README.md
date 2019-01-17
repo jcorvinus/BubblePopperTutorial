@@ -65,6 +65,7 @@ The touch point for all interactions in InteractionEngine is the InteractionBeha
 To actually add the popping behavior, we're going to create a new script that manages this bubble object. In our "_BubblePopper/Scripts/" folder create a new script and call it "Bubble". After unity is done compiling, go back to the Bubble object in the heirarchy. In the inspector, click "Add Component", then type "Bubble" into the search field and click the script we made. It should get added to the GameObject as a component.
 
 Our inspector should now look like this:
+
 ![Bubble Script And Interaction Behavior](https://github.com/jcorvinus/BubblePopperTutorial/blob/master/Images/BubbleScriptAndInteractionBehavior.png)
 
 Double click the 'script' field of the bubble component to open up the Bubble.cs script. Change it to read like so:
