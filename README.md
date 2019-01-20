@@ -24,7 +24,7 @@ Now we'll want to make a folder to hold all of our project-specific content. We'
 We'll make the following sub folders: Scenes, Scripts, Materials
 
 ##Enabling VR support
-In the menu bar, click on File->Build Settings. In the window that appears, click on 'Player Settings' in the bottom-left corner of the window. In the Inspector, find 'XR Settings' and expand it, if it is not already expanded. Set the order of the VR SDKs such that your favorite one loads first. Mine is as follows:
+In the menu bar, click on Edit->Project Settings->Player. In the window that appears, click on 'Player Settings' in the bottom-left corner of the window. In the Inspector, find 'XR Settings' and expand it, if it is not already expanded. Set the order of the VR SDKs such that your favorite one loads first. Mine is as follows:
 
 ![XR Settings](https://github.com/jcorvinus/BubblePopperTutorial/blob/master/Images/XRSettings.png)
 
