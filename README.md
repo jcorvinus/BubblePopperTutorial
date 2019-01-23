@@ -9,6 +9,7 @@ NOTE: This is a VR tutorial. The following hardware is required:
 - Computer capable of driving the aforementioned hardware.
 
 Also, this tutorial is tested with Unity version _2017.4.1f1_
+If you use a later version of Untiy, beware that it might not ship with OpenVR support enabled out of the box. If your version of unity has a Package Manager window, look there for an OpenVR support package.
 
 # Getting Started
 Open Unity, select the 'new project' option.
