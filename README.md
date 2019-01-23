@@ -8,6 +8,8 @@ NOTE: This is a VR tutorial. The following hardware is required:
 - Leap Motion controller
 - Computer capable of driving the aforementioned hardware.
 
+Also, this tutorial is tested with Unity version _2017.4.1f1_
+
 # Getting Started
 Open Unity, select the 'new project' option.
 Name the project 'bubble popper'
@@ -24,7 +26,7 @@ Now we'll want to make a folder to hold all of our project-specific content. We'
 We'll make the following sub folders: Scenes, Scripts, Materials
 
 ##Enabling VR support
-In the menu bar, click on File->Build Settings. In the window that appears, click on 'Player Settings' in the bottom-left corner of the window. In the Inspector, find 'XR Settings' and expand it, if it is not already expanded. Set the order of the VR SDKs such that your favorite one loads first. Mine is as follows:
+In the menu bar, click on File->Build Settings. In the window that appears, click on 'Player Settings' in the bottom-left corner of the window. In the Inspector, find 'XR Settings' and expand it, if it is not already expanded. Click the 'Virtual Reality Supported' checkbox to enable VR. Set the order of the VR SDKs such that your favorite one loads first. Mine is as follows:
 
 ![XR Settings](https://github.com/jcorvinus/BubblePopperTutorial/blob/master/Images/XRSettings.png)
 
